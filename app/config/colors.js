@@ -1,0 +1,15 @@
+export default colors = {
+  primary: "#fc5c65",
+  secondary: "#4ecdc4",
+  black: "#2D3436",
+  blue: "#24A6D9",
+  lightBlue: "#A7CBD9",
+  white: "#FFFFFF",
+  c1: "#5CD859",
+  c2: "#24A6D9",
+  c3: "#595BD9",
+  c4: "#8022D9",
+  c5: "#D159D8",
+  c6: "#D85963",
+  c7: "#D88559",
+};
